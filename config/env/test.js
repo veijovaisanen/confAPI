@@ -1,7 +1,8 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/mean-test',
+	db: 'mongodb://vvaisan:Miisu#Kiti@waffle.modulusmongo.net:27017/etiRyw3y',
+	//db: 'mongodb://localhost/mean-test',
 	port: 3001,
 	app: {
 		title: 'MEAN - Test Environment'

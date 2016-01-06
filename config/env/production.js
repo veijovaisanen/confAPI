@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-     db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://localhost/mean-dev',
+     db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://vvaisan:Miisu#Kiti@waffle.modulusmongo.net:27017/etiRyw3y',
 	//db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://localhost/mean',
 	assets: {
 		lib: {
